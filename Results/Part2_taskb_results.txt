@@ -1,0 +1,6 @@
+Number of accident points: 50
+Moran's I: 0.9866
+p-value: 2.7282e-19
+Average distance to nearest intersection: 185.59 m
+Maximum distance: 520.16 m
+Minimum distance: 2.56 m
